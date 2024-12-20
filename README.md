@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priannn&label=Profile%20views&color=0e75b6&style=flat" alt="priannn" /> </p>
 
-- 🔭 I’m currently working on **Burger Bangor :)))**
 
 - 🌱 I’m currently learning **React & Next Js**
 
